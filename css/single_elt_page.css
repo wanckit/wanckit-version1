@@ -1,0 +1,42 @@
+/*top*/
+header {
+	margin-top: -8px;
+	height: 410px;
+	background-image: url("../images/header-img.jpg");
+	background-repeat: no-repeat;
+	background-position: center;
+	background-size: cover;
+}
+
+/*navigation bar*/
+.navbar { opacity: 0.9; }
+.top-icon { color: white; font-size: 17px; }
+.fa-youtube:hover { color: #ef5350; } .fa-instagram:hover { color: #ff4081; } 
+.fa-facebook:hover { color: #0277bd; }
+.menu {color: white;}
+.menu:hover {color: yellow;}
+.menu-home {color: yellow;}
+
+/*content container*/
+.container-fluid { margin-top: 10px; }
+
+/*quick links access*/
+aside { background-color: #FFFDE7; height: 300px; }
+aside h2 { text-align: center; background-color: #31363B; color: yellow; margin-top: 20px; 
+           font-family: 'Nunito', sans-serif; font-size: 1.5em; opacity: 0.9; }
+table { margin-top: 20px; } 
+table tr td a { margin-bottom: 20px; font-size: 18px; text-decoration-line: underline; 
+	            font-family: 'Lexend Exa', sans-serif; }
+.link-icon { margin-right: 10px; color: #31363B; font-size: 25px; }
+
+/*page content*/
+section h1 { text-align: center; font-family: 'Nunito', sans-serif; font-size: 1.5em; 
+             font-weight: bold; background-color: #FFFDE7; padding: 10px 0px 10px 0px; color: #31363B; }
+
+.caption { margin: 10px 20px 30px 10px; padding: 0px; }
+.caption p { font-family: 'Lexend Exa', sans-serif; }
+
+/*footer*/
+.copyright { color: white; font-size: 14px; margin-top: 10px; }
+.text-footer { color: white; font-size: 15px; }
+#ytb {color: #ef5350;} #fcb { color: #0277bd; } #int { color: #ff4081; }
